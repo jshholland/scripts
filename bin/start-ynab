@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd "$HOME/.wine/drive_c/Program Files/YNAB 4"
+exec wine "YNAB 4.exe"

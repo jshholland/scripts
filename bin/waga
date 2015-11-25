@@ -1,0 +1,3 @@
+#!/bin/bash
+
+livestreamer twitch.tv/wagamamatv best

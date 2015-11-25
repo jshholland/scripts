@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source $HOME/.venvs/brainworkshop/bin/activate
+python $HOME/p/brainworkshop/brainworkshop.py
